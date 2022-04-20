@@ -40,6 +40,7 @@ npm run runserver
 # ⬇️ Code Downloading Process
 
 * You Can Download the code in **2 Methods**
+* Choose Any One Methode has your whish
 
 ---
 

@@ -84,8 +84,10 @@ npm install node
 
 ---
 
-## For Vite Development Sever
+## For Vite Development Server
 
 ```bash
 npm install vite
 ```
+
+
